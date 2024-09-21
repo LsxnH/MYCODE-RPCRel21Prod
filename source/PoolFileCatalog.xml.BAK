@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="83EEB374-02BE-CE4A-82B6-5C2237F63D05">
+    <physical>
+      <pfn filetype="ROOT_All" name="/lustre/stormfs/atlas/atlaslocalgroupdisk/rucio/data18_13TeV/51/6d/DESDM_MCP.17790624._000039.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>

@@ -1,0 +1,96 @@
+<!-- Auto-generated file, please do not edit -->
+<Project name="WorkDir" >
+   <SubProject name="AthenaBaseComps" >
+   </SubProject>
+   <SubProject name="AthContainers" >
+   </SubProject>
+   <SubProject name="GaudiInterface" >
+   </SubProject>
+   <SubProject name="AtlasROOT" >
+   </SubProject>
+   <SubProject name="xAODMuon" >
+   </SubProject>
+   <SubProject name="xAODCore" >
+   </SubProject>
+   <SubProject name="xAODTrigger" >
+   </SubProject>
+   <SubProject name="xAODEventInfo" >
+   </SubProject>
+   <SubProject name="MuonPrepRawData" >
+   </SubProject>
+   <SubProject name="AsgTools" >
+   </SubProject>
+   <SubProject name="GeoPrimitives" >
+   </SubProject>
+   <SubProject name="EventInfo" >
+   </SubProject>
+   <SubProject name="MuonRPC_Cabling" >
+   </SubProject>
+   <SubProject name="MuonReadoutGeometry" >
+   </SubProject>
+   <SubProject name="MuonIdHelpers" >
+   </SubProject>
+   <SubProject name="MuonTGRecTools" >
+   </SubProject>
+   <SubProject name="MuonRIO_OnTrack" >
+   </SubProject>
+   <SubProject name="MuonRDO" >
+   </SubProject>
+   <SubProject name="TrkMeasurementBase" >
+   </SubProject>
+   <SubProject name="TrkRIO_OnTrack" >
+   </SubProject>
+   <SubProject name="TrkExInterfaces" >
+   </SubProject>
+   <SubProject name="TrigMuonMatching" >
+   </SubProject>
+   <SubProject name="TrigSteeringEvent" >
+   </SubProject>
+   <SubProject name="TrigConfL1Data" >
+   </SubProject>
+   <SubProject name="TrigT1Interfaces" >
+   </SubProject>
+   <SubProject name="TrigT1Result" >
+   </SubProject>
+   <SubProject name="MuonMomentumCorrections" >
+   </SubProject>
+   <SubProject name="MuonEfficiencyCorrections" >
+   </SubProject>
+   <SubProject name="MuonSelectorTools" >
+   </SubProject>
+   <SubProject name="IsolationSelection" >
+   </SubProject>
+   <SubProject name="PhysicsRPCProd" >
+      <Dependency name="AthenaBaseComps" />
+      <Dependency name="AthContainers" />
+      <Dependency name="GaudiInterface" />
+      <Dependency name="AtlasROOT" />
+      <Dependency name="xAODMuon" />
+      <Dependency name="xAODCore" />
+      <Dependency name="xAODTrigger" />
+      <Dependency name="xAODEventInfo" />
+      <Dependency name="MuonPrepRawData" />
+      <Dependency name="AsgTools" />
+      <Dependency name="GeoPrimitives" />
+      <Dependency name="EventInfo" />
+      <Dependency name="MuonRPC_Cabling" />
+      <Dependency name="MuonReadoutGeometry" />
+      <Dependency name="MuonIdHelpers" />
+      <Dependency name="MuonTGRecTools" />
+      <Dependency name="MuonRIO_OnTrack" />
+      <Dependency name="MuonPrepRawData" />
+      <Dependency name="MuonRDO" />
+      <Dependency name="TrkMeasurementBase" />
+      <Dependency name="TrkRIO_OnTrack" />
+      <Dependency name="TrkExInterfaces" />
+      <Dependency name="TrigMuonMatching" />
+      <Dependency name="TrigSteeringEvent" />
+      <Dependency name="TrigConfL1Data" />
+      <Dependency name="TrigT1Interfaces" />
+      <Dependency name="TrigT1Result" />
+      <Dependency name="MuonMomentumCorrections" />
+      <Dependency name="MuonEfficiencyCorrections" />
+      <Dependency name="MuonSelectorTools" />
+      <Dependency name="IsolationSelection" />
+   </SubProject>
+</Project>

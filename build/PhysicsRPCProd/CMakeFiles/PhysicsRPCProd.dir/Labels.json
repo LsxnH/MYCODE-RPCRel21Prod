@@ -1,0 +1,85 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/BitHolder.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/CutFlow.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/CutItem.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/Event.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/GetAuxVar.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonExtrapolator.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonGeometry.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonHistoTool.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonUtils.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadEvent.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadL1Hit.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadL1Muon.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadMuon.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadTrack.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/SaveEvent.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/TrigMatch.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/Utils.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarDefs.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarEntry.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarHolder.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/WriteEvent.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/WriteUtils.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/components/PhysicsRPCProd_entries.cxx"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/components/PhysicsRPCProd_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PhysicsRPCProd"
+		],
+		"name" : "PhysicsRPCProd"
+	}
+}

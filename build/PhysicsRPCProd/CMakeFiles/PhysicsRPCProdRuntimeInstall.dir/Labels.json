@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/CommonConfig_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/L1RPC_NTUP_tf.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/readDESD_MCP_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/readRAW_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/CommonConfig_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/L1RPC_NTUP_tf.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/readDESD_MCP_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/readRAW_PhysicsAnpRPC.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/CommonConfig_PhysicsAnpRPC.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/L1RPC_NTUP_tf.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/readDESD_MCP_PhysicsAnpRPC.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/share/readRAW_PhysicsAnpRPC.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PhysicsRPCProd"
+		],
+		"name" : "PhysicsRPCProdRuntimeInstall"
+	}
+}

@@ -1,0 +1,1 @@
+import py_compile; py_compile.compile( '/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/python/PhysicsRPCProdNoise.py', cfile = '/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdNoise.pyc', doraise = True )

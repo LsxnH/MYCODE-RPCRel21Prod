@@ -1,0 +1,11 @@
+# Target labels
+ PhysicsRPCProd
+# Source files and their labels
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdConfig.pyc
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdNoise.pyc
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdRead.pyc
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/__init__.pyc
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdConfig.pyc.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdNoise.pyc.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdRead.pyc.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/__init__.pyc.rule

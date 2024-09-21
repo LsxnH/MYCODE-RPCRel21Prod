@@ -1,0 +1,49 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdConfig.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdNoise.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdRead.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/__init__.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/python/PhysicsRPCProdConfig.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/python/PhysicsRPCProdNoise.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/python/PhysicsRPCProdRead.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/python/__init__.py"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdConfig.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdNoise.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/PhysicsRPCProdRead.py.rule"
+		},
+		{
+			"file" : "/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/python/PhysicsRPCProd/__init__.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"PhysicsRPCProd"
+		],
+		"name" : "PhysicsRPCProdPythonInstall"
+	}
+}

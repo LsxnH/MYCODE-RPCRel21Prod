@@ -1,0 +1,4 @@
+SourceArea = /hepustc/home/hengli/testarea/RPCRel21Prod/build/../source
+TestArea = /hepustc/home/hengli/testarea/RPCRel21Prod/build
+ACM_GITLAB_PATH_PREFIX = https://:@gitlab.cern.ch:8443/
+asetupArguments = Athena,21.0.83

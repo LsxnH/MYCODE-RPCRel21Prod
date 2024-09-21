@@ -1,0 +1,27 @@
+# Target labels
+ PhysicsRPCProd
+# Source files and their labels
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/BitHolder.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/CutFlow.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/CutItem.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/Event.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/GetAuxVar.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonExtrapolator.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonGeometry.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonHistoTool.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/L1MuonUtils.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadEvent.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadL1Hit.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadL1Muon.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadMuon.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/ReadTrack.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/SaveEvent.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/TrigMatch.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/Utils.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarDefs.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarEntry.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/VarHolder.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/WriteEvent.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/WriteUtils.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/components/PhysicsRPCProd_entries.cxx
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/src/components/PhysicsRPCProd_load.cxx

@@ -1,0 +1,15 @@
+# Target labels
+ PhysicsRPCProd
+# Source files and their labels
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/CommonConfig_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/L1RPC_NTUP_tf.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/readDESD_MCP_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/readRAW_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/CommonConfig_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/L1RPC_NTUP_tf.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/readDESD_MCP_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/source/PhysicsRPCProd/share/readRAW_PhysicsAnpRPC.py
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/CommonConfig_PhysicsAnpRPC.py.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/L1RPC_NTUP_tf.py.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/readDESD_MCP_PhysicsAnpRPC.py.rule
+/hepustc/home/hengli/testarea/RPCRel21Prod/build/x86_64-slc6-gcc62-opt/jobOptions/PhysicsRPCProd/readRAW_PhysicsAnpRPC.py.rule
